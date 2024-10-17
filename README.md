@@ -43,7 +43,7 @@ Create a virtual environment:
   
 ```bash
 python3 -m venv stroke_risk/
-source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+source stroke_risk/bin/activate   # On Windows, use `venv\Scripts\activate`
 ```
 Install the required packages:
 ```bash
